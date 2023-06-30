@@ -1,0 +1,5 @@
+me\weedlylife\cores\CoreS.class
+me\weedlylife\cores\commands\PingCommand.class
+me\weedlylife\cores\listeners\PlayerJoin.class
+me\weedlylife\cores\listeners\PlayerLeave.class
+me\weedlylife\cores\commands\SitCommand.class

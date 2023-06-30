@@ -1,0 +1,4 @@
+name: CoreS
+version: '${project.version}'
+main: me.weedlylife.cores.CoreS
+api-version: '1.20'
